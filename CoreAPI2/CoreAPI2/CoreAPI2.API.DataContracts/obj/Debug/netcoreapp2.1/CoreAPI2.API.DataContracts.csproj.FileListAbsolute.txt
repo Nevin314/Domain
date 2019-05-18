@@ -1,0 +1,9 @@
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.API.DataContracts\bin\Debug\netcoreapp2.1\CoreAPI2.API.DataContracts.deps.json
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.API.DataContracts\bin\Debug\netcoreapp2.1\CoreAPI2.API.DataContracts.dll
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.API.DataContracts\bin\Debug\netcoreapp2.1\CoreAPI2.API.DataContracts.pdb
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.API.DataContracts\obj\Debug\netcoreapp2.1\CoreAPI2.API.DataContracts.csprojAssemblyReference.cache
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.API.DataContracts\obj\Debug\netcoreapp2.1\CoreAPI2.API.DataContracts.csproj.CoreCompileInputs.cache
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.API.DataContracts\obj\Debug\netcoreapp2.1\CoreAPI2.API.DataContracts.AssemblyInfoInputs.cache
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.API.DataContracts\obj\Debug\netcoreapp2.1\CoreAPI2.API.DataContracts.AssemblyInfo.cs
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.API.DataContracts\obj\Debug\netcoreapp2.1\CoreAPI2.API.DataContracts.dll
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.API.DataContracts\obj\Debug\netcoreapp2.1\CoreAPI2.API.DataContracts.pdb

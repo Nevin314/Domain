@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CoreAPI2.API.Tests.Controllers": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TEST_ENVIRONMENT": "Developement"
+      }
+    }
+  }
+}

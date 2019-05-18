@@ -1,0 +1,9 @@
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Tools\bin\Debug\netcoreapp2.1\CoreAPI2.Tools.deps.json
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Tools\bin\Debug\netcoreapp2.1\CoreAPI2.Tools.dll
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Tools\bin\Debug\netcoreapp2.1\CoreAPI2.Tools.pdb
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Tools\obj\Debug\netcoreapp2.1\CoreAPI2.Tools.csprojAssemblyReference.cache
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Tools\obj\Debug\netcoreapp2.1\CoreAPI2.Tools.csproj.CoreCompileInputs.cache
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Tools\obj\Debug\netcoreapp2.1\CoreAPI2.Tools.AssemblyInfoInputs.cache
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Tools\obj\Debug\netcoreapp2.1\CoreAPI2.Tools.AssemblyInfo.cs
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Tools\obj\Debug\netcoreapp2.1\CoreAPI2.Tools.dll
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Tools\obj\Debug\netcoreapp2.1\CoreAPI2.Tools.pdb

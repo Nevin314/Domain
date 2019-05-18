@@ -1,0 +1,12 @@
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\bin\Debug\netcoreapp2.1\CoreAPI2.Services.deps.json
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\bin\Debug\netcoreapp2.1\CoreAPI2.Services.dll
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\bin\Debug\netcoreapp2.1\CoreAPI2.Services.pdb
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\bin\Debug\netcoreapp2.1\CoreAPI2.API.Common.dll
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\bin\Debug\netcoreapp2.1\CoreAPI2.API.Common.pdb
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\obj\Debug\netcoreapp2.1\CoreAPI2.Services.csprojAssemblyReference.cache
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\obj\Debug\netcoreapp2.1\CoreAPI2.Services.csproj.CoreCompileInputs.cache
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\obj\Debug\netcoreapp2.1\CoreAPI2.Services.AssemblyInfoInputs.cache
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\obj\Debug\netcoreapp2.1\CoreAPI2.Services.AssemblyInfo.cs
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\obj\Debug\netcoreapp2.1\CoreAPI2.Services.csproj.CopyComplete
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\obj\Debug\netcoreapp2.1\CoreAPI2.Services.dll
+E:\NevinApps\CoreAPI2\CoreAPI2\CoreAPI2.Services\obj\Debug\netcoreapp2.1\CoreAPI2.Services.pdb
